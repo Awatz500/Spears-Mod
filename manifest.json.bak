@@ -1,0 +1,20 @@
+{
+  "Group": "Awatz500",
+  "Name": "PruebaMod",
+  "Version": "1.0.0",
+  "Description": "Mod de pruebas de Awatz500",
+  "Authors": [
+    {
+      "Name": "Awatz500",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

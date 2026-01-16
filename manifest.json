@@ -1,0 +1,20 @@
+{
+  "Group": "Awatz500",
+  "Name": "Spears",
+  "Version": "1.0.0",
+  "Description": "This mod adds the spears to exploration mode that are already in creative mode.",
+  "Authors": [
+    {
+      "Name": "Awatz500",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
